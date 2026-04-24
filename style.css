@@ -118,7 +118,8 @@ color: rgb(238, 99, 226)
 
 background-color: white;
     border-radius: 10px;
-    border: 7px double black;}
+    border: 7px double black;
+    color:black;}
 .post:hover{
     background-color: black;
     color: white;
