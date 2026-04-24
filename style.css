@@ -116,9 +116,9 @@ color: rgb(238, 99, 226)
 
 .social:hover {
 
-background-color: #850AE5;
+background-color: white;
     border-radius: 10px;
-    border: 7px double rgb(60, 0, 90);}
+    border: 7px double black;}
 .post:hover{
     background-color: black;
     color: white;
@@ -129,7 +129,7 @@ background-color: #850AE5;
     top: 100px;
     right: 0px;
     width: 100px;
-    background-color: #black;
+    background-color: black;
     border-radius: 10px;
     border: 7px double white;
 }
